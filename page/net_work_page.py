@@ -36,6 +36,11 @@ class NetWorkPage(BaseAction):
     def quit_page(self):
         "退出"
         self.driver.quit()
+        
+        
+     def quit_page111(self):
+        "退出"
+         pass
 
 
 if __name__ == '__main__':
