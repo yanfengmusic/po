@@ -41,6 +41,10 @@ class NetWorkPage(BaseAction):
      def quit_page111(self):
         "退出"
          pass
+        
+       def quit_page222(self):
+        "退出"
+         pass
 
 
 if __name__ == '__main__':
